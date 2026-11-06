@@ -1,6 +1,8 @@
 <img width="2048" height="768" alt="Citrus Keyboard Emblem Banner" src="https://github.com/user-attachments/assets/5df4cc39-83cf-4f45-b831-0d98c3926346" />
 
-**苏州中学软件开发社人工智能部** 是来自江苏省苏州中学校的学生技术与开源组织。
+---
+
+**苏州中学软件开发社人工智能部 (Artificial Intelligence Division of Soochow Academy)** 是来自江苏省苏州中学校的学生技术与开源组织。
 
 我们致力于人工智能理论的探索与普及，同时将前沿技术与现代软件工程相结合，构建服务于苏中校园的数字化产品。
 
