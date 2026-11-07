@@ -18,4 +18,4 @@
 
 ---
 
-<sub>📍 江苏省苏州中学校 (Soochow Academy) · 欢迎志同道合的苏中同学加入我们！QQ 群：1129145914</sub>
+<sub>📍 江苏省苏州中学校 (Soochow Academy) · 欢迎志同道合的苏中同学加入我们！QQ 群：[1129145914](https://qm.qq.com/q/BvSzjs8Viw)</sub>
