@@ -1,15 +1,15 @@
-<img width="2048" height="768" alt="Citrus Keyboard Emblem Banner" src="https://github.com/user-attachments/assets/5df4cc39-83cf-4f45-b831-0d98c3926346" />
+<img width="1242" height="717" alt="Untitled" src="https://github.com/user-attachments/assets/0b4604b1-9ede-4c78-8765-da604ffebfc9" />
 
 ---
 
-**苏州中学软件开发社人工智能部 (Soochow Academy AI Lab，“苏州中学人工智能实验室”)** 是来自江苏省苏州中学校的学生技术与开源组织。
+**苏州中学人工智能实验室 (Soochow Academy AI Lab)** 是来自江苏省苏州中学校的学生技术与开源组织，隶属于软件开发社，是学生处李超老师提议、严翊航社长批准成立的分支机构，主要研究人工智能的理论和应用。我们同时还是同济大学 @YourTongji 团队的合作伙伴。
 
 我们致力于人工智能理论的探索与普及，同时将前沿技术与现代软件工程相结合，构建服务于苏中校园的数字化产品。
 
 #### 🎯 我们在做什么
 
 - **🛠️ 校园工程实践**：主导开发与维护以 **「拾光酥糕」** 为代表的校园开源项目，用代码回应校园日常需求。
-- **🧠 理论探索与交流**：开展 AI 前沿技术研讨，代表学校参与 GALESS 等国际青年学术论坛。
+- **🧠 理论探索与交流**：开展 AI 前沿技术研讨，代表学校参与 [GALESS](https://galess.org) 等国际青年学术论坛。
 - **💡 技术普及与分享**：通过校园主题讲座、研讨会与创意内容，在道山脚下传播开源与技术文化。
 
 #### 🚀 代表项目
